@@ -1,0 +1,43 @@
+# Geotechnicalengineering1 — St. Louis
+
+> Geotechnical engineering services in St. Louis, United States.
+
+## Services
+- [Anchors](https://st-louis.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://st-louis.geotechnicalengineering1.org/atterberg-limits/)
+- [Cpt Test](https://st-louis.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://st-louis.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://st-louis.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://st-louis.geotechnicalengineering1.org/excavations/)
+- [Footings](https://st-louis.geotechnicalengineering1.org/footings/)
+- [Foundations](https://st-louis.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://st-louis.geotechnicalengineering1.org/geophysics/)
+- [Ground Improvement](https://st-louis.geotechnicalengineering1.org/ground-improvement/)
+- [In Situ Permeability](https://st-louis.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://st-louis.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://st-louis.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://st-louis.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://st-louis.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://st-louis.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://st-louis.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://st-louis.geotechnicalengineering1.org/piles/)
+- [Plate Load Test](https://st-louis.geotechnicalengineering1.org/plate-load-test/)
+- [Resistivity](https://st-louis.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://st-louis.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://st-louis.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://st-louis.geotechnicalengineering1.org/road-geotechnics/)
+- [Seismic](https://st-louis.geotechnicalengineering1.org/seismic/)
+- [Seismic Microzonation](https://st-louis.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://st-louis.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://st-louis.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://st-louis.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://st-louis.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Stone Columns](https://st-louis.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://st-louis.geotechnicalengineering1.org/test-pits/)
+
+## Contact
+- Website: https://st-louis.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in St. Louis, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
